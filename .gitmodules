@@ -1,0 +1,4 @@
+[submodule "ai-engineer/public"]
+	path = ai-engineer/public
+	url = git@github.com:sreekumarkr/sreekumarkr.github.io.git
+	branch = main
